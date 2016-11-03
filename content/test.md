@@ -1,9 +1,3 @@
-Testing this site
-==============================================
-
-a lot of stuff goes here later.
-
-
 ---
 views:
     byline:
@@ -15,3 +9,9 @@ views:
                 type: content
                 route: block/byline
 ...
+Testing this site
+==============================================
+
+Min testsida
+
+

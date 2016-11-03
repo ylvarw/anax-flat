@@ -1,10 +1,23 @@
+---
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
+...
 About this site
 ==============================================
 
-The primary focus of this site is to:
+Denna sida byggs som en me-sida som en del av kursen design i webbprogrammering på BTH.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+[Mitt Github-repo](https://github.com/ylvarw/anax-flat)
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+![bilden](img/anax.png)
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+
+A-bilden lades in efftersom det är svårt att hitta en bild som kan repressentera Anax Flat så det fick bli det A som redan fanns tillgänglig i mappen för tillhörande bilder och det gjordes som en testbild för att kunna lägga in bilder.
+

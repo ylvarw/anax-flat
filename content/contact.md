@@ -1,4 +1,20 @@
+---
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
+...
+
 Contact
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Frågor om denna webbsida kan skickas till [Ylva Rasmusson Wright] på (ylvarw@gmail.com).
+
+
+
+
