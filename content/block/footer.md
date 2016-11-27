@@ -1,4 +1,4 @@
-<!-- Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se) -->
+Copyright &copy; 2016 [Ylva Rasmusson Wright](ylvarw@gmail.com)
 
 
 * [License](license)

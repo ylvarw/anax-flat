@@ -24,13 +24,26 @@ return [
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("About this website"),
             ],
 
             "test" => [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testing this website")
+                "title" => t("Testing this website"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid layout testing"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography test"),
             ],
         ],
     ],
@@ -59,13 +72,26 @@ return [
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("About this website"),
             ],
             
             "test" => [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testing this website")
+                "title" => t("Testing this website"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("grid layout"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography test"),
             ],
         ],
     ],
