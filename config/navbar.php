@@ -10,7 +10,7 @@ return [
         // Use for styling the menu
         "wrapper" => null,
         "class" => "rm-default rm-desktop",
-     
+
         // Here comes the menu structure
         "items" => [
 
@@ -45,6 +45,24 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography test"),
             ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme-selector"),
+            ],
         ],
     ],
 
@@ -58,7 +76,7 @@ return [
         "id" => "rm-menu",
         "wrapper" => null,
         "class" => "rm-default rm-mobile",
-     
+
         // Here comes the menu structure
         "items" => [
 
@@ -74,7 +92,7 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website"),
             ],
-            
+
             "test" => [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
@@ -92,6 +110,24 @@ return [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography test"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme-selector"),
             ],
         ],
     ],

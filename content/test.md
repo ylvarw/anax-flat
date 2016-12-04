@@ -15,3 +15,6 @@ Testing this site
 Min testsida
 
 
+![En fin bild](cimage/imgd.php?src=dbwebbisar.jpg&w=300&h=400)
+
+![En fin bild](cimage/imgd.php?src=mur.jpg&w=300)
