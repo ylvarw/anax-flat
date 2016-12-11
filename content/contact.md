@@ -13,8 +13,4 @@ views:
 Contact
 ==============================================
 
-Frågor om denna webbsida kan skickas till [Ylva Rasmusson Wright] på (ylvarw@gmail.com).
-
-
-
-
+Frågor om denna webbsida kan skickas till [Ylva Rasmusson Wright](ylvarw@gmail.com).
