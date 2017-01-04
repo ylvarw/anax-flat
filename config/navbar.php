@@ -64,6 +64,12 @@ return [
                 "title" => t("Images"),
             ],
 
+            "design-principle" => [
+                "text"  => t("Design"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design-principle"),
+            ],
+
             "theme" => [
                 "text"  => t("Theme"),
                 "url"   => $this->di->get("url")->create("theme"),
@@ -140,6 +146,12 @@ return [
                 "text"  => t("Images"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Images"),
+            ],
+
+            "design-principle" => [
+                "text"  => t("Design"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design-principle"),
             ],
 
             "theme" => [

@@ -59,12 +59,31 @@ return [
             "stylesheets" => ["css/style-typography.min.css"]
         ],
 
+        // "separator2" => "------------------------------------------------",
+
+        // "fun"       => [
+        //     "title"      => "All fun, test and play, make it stand out!",
+        //     "class"      => "fun",
+        //     "stylesheets" => []
+        // ],
+
+
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "design - movement"       => [
+            "title"      => "a design style with movement",
+            "class"      => "movement",
+            "stylesheets" => ["css/style-design-movement.min.css"]
+        ],
+        "design - 2nd designstyle"       => [
+            "title"      => "2nd designstyle",
+            "class"      => "2nd designstyle",
+            "stylesheets" => ["css/2nd-designstyle.min.css"]
+        ],
+        "design - 3rd designstyle"       => [
+            "title"      => "3rd designstyle",
+            "class"      => "3rd designstyle",
+            "stylesheets" => ["css/3rd designstyle.min.css"]
         ],
     ]
 ];
