@@ -27,11 +27,13 @@ det känns som att de som gjorde sidan hade en bild av hur de ville ha webbsidan
 <dl>
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> Färgschemat för sidan, inga accentfärger:</p>
-<tr><td style="height: 50px; width:50px; background-color: #905714; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #4B130A; border-style: solid;"</tr>
-<tr><td style="height: 50px; width:50px; background-color: #673D24; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #86817D; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #ffffff; border-style: solid;"></tr>
+<tr>
+<td style="height: 50px; width:50px; background-color: #905714; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #4B130A; border-style: solid;"</td>
+<td style="height: 50px; width:50px; background-color: #673D24; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #86817D; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #ffffff; border-style: solid;"></td>
+</tr>
 </table>
 </dl>
 
@@ -67,16 +69,20 @@ Sparsam användning av accentfärg gör att man lättare uppfattar de viktiga ny
 <dl>
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> Färgschemat för sidan:</p>
-<tr><td style="height: 50px; width:50px; background-color: #47BBAE; border-style: solid;"</tr>
-<tr><td style="height: 50px; width:50px; background-color: #202020; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #303030; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #F4B44E; border-style: solid;"></tr>
+<tr>
+<td style="height: 50px; width:50px; background-color: #47BBAE; border-style: solid;"</td>
+<td style="height: 50px; width:50px; background-color: #202020; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #303030; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #F4B44E; border-style: solid;"></td>
+</tr>
 </table>
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> accentfärger:</p>
-<tr><td style="height: 50px; width:50px; background-color: #DC1F47; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #FFDC00; border-style: solid;"></tr>
+<tr>
+<td style="height: 50px; width:50px; background-color: #DC1F47; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #FFDC00; border-style: solid;"></td>
+</tr>
 </table>
 </dl>
 
@@ -107,12 +113,14 @@ Känns väldigt seriös med sina vita, grå och svarta färger. Mycket på start
 <dl>
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> Färgschemat för sidan:</p>
-<tr><td style="height: 50px; width:50px; background-color: #EBEAE6; border-style: solid;"</tr>
-<tr><td style="height: 50px; width:50px; background-color: #E2E1DD; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #FFFFFF; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #000000; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #FFD002; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #76D5FF; border-style: solid;"></tr>
+<tr>
+<td style="height: 50px; width:50px; background-color: #EBEAE6; border-style: solid;"</td>
+<td style="height: 50px; width:50px; background-color: #E2E1DD; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #FFFFFF; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #000000; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #FFD002; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #76D5FF; border-style: solid;"></td>
+</tr>
 </table>
 </dl>
 
@@ -148,16 +156,18 @@ välstrukturerad sida och det är lätt att se informationen.
 <dl>
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> Färgschemat för sidan:</p>
-<tr><td style="height: 50px; width:50px; background-color: #049BDA; border-style: solid;"</tr>
-<tr><td style="height: 50px; width:50px; background-color: #EB7F00; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #F3F3F3; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #FFFFFF; border-style: solid;"></tr>
-<tr><td style="height: 50px; width:50px; background-color: #000000; border-style: solid;"></tr>
+<tr>
+<td style="height: 50px; width:50px; background-color: #049BDA; border-style: solid;"</td>
+<td style="height: 50px; width:50px; background-color: #EB7F00; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #F3F3F3; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #FFFFFF; border-style: solid;"></td>
+<td style="height: 50px; width:50px; background-color: #000000; border-style: solid;"></td>
+</tr>
 </table>
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <p> accentfärger:</p>
-<tr><td style="height: 50px; width:50px; background-color: #D9248C; border-style: solid;"></tr>
+<tr><td style="height: 50px; width:50px; background-color: #D9248C; border-style: solid;"></td></tr>
 </table>
 </dl>
 

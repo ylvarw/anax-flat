@@ -35,6 +35,8 @@ Det är en väldigt enkel design som gör sidan så användbar som den är. Begr
 http://www.ikea.com/
 
 Ikeas hemsida är en sida som riktar sig mot kunder för att sälja sina produkter till dem. Det är ett stort företag som har ett lika stort behov av en bra hemsida där kunder kan hitta de produkter som de vill ha eller lockas till om de inte har något specifikt att köpa. Jag har själv varit inne på sidan förrut men hur ser det ut om man faktiskt analyserar sidans användbarhet?
+Analysen utfördes genom att använda deras sida och att försöka navigera bland deras meny och undermenyer samt att försöka hittaspecifika saker och gå tillbaka från dem.
+
 
 Det märks tydligt att det är ett företag som säljer produkter när man går in på deras sida, man möts av inbjudande bilder och en ljus och öppen design på sidan. Över hela sidan finns en sammanhängande design med långa bildlistor av objekt men som bryts upp och görs intressant med inslag av större bilder.
 
@@ -59,6 +61,8 @@ Sidan har en harmonisk design med viss variation för att ge kontrast och att br
 http://www.blomsterlandet.se/
 
 Blomsterlandet har en sida som både har försäljning men även en stor del för skötselsåd och tips för växter så vill se hur de har valt att designa sin sida.
+Analysen utfördes genom att använda deras sida och att försöka navigera i menyvalet för artiklar, produktinformation och webbshopp.
+
 
 Man möts av en livligt grön sida med en vertikal design för bilder och artiklar dock så känns menyerna svårare att navigera då det inte är uppenbart vad som finns var och under vilken sida.
 Detta leder också till att man oftare kommer fel och man kan exempelvis hamna på e-butiken när man egentligen vill ha butikssortimentet vilket ger väldigt olika resultat och kan kännas förvirrande.
@@ -82,6 +86,7 @@ Det känns som en trevlig sida med en tydlig formell balans design och välordna
 http://www.scientificamerican.com/
 
 Detta är en sida som visar vetenskapliga artiklar och förmedlar kunskap vilket kräver en annorlunda design gentemot ett företag som vill sälja produkter.
+Analysen utfördes genom att jag försökte navigera till vissa ämnen för artiklar och tillbaka till dem från andra artiklar.
 
 Man möts av en ljus sida med tydliga länkar och en tydlig meny som det känns lätt att navigera i och man kan snabbt hitta vad man söker.
 
@@ -100,4 +105,6 @@ Sidan har en tydlig design med olika skalor och symetri, linjer på sidan delar 
 
 
 ##Bästa designen
+Efter att ha utfört de olika analyserna så kan jag sammanfatta att det är viktigt att ha tydliga menyer och undermenyer så att man vet hur man ska gå för att komma till sökta sidor samt att ha ett enkelt sätt för användaren att hitta tillbaka i sökvägarna.
+
 Baserat på de olika kriterierna så är webbplatsen med dem mest användarvänliga designen __Scientific American__
