@@ -1,29 +1,27 @@
 images
 =====================================
 
-[FIGURE src="image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" class="right"]
+[FIGURE src="image/blad.jpg&w=300" caption="blad på en gren"]
+[FIGURE src="image/blad.jpg&w=150" caption="blad på en gren"]
+[FIGURE src="image/blad.jpg&w=50" caption="blad på en gren"]
 
-[FIGURE right src=cimage/imgd.php?src=blad.jpg&w=300 caption="blad på en gren" class="center"]
 
-[FIGURE src=cimage/imgd.php?src=blad.jpg&w=150 caption="blad på en gren"]
 
-[FIGURE src=cimage/imgd.php?src=blad.jpg&w=50 caption="blad på en gren"]
-
-##CHAPTER II
+##CHAPTER II _(from Tom sawyer)_
 
 __SATURDAY__ morning was come, and all
 the summer world was bright and fresh,
 and brimming with life. There was a
 song in every heart; and if the heart was
 young the music issued at the lips. There
-was cheer in every face and a spring in [FIGURE src="image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" class="right"]
+was cheer in every face and a spring in
 
 every step. The locust-trees were in bloom and the
 fragrance of the blossoms filled the air. Cardiff
 Hill, beyond the village and above it, was green with
 vegetation and it lay just far enough away to seem
 a Delectable Land, dreamy, reposeful, and inviting.
-[FIGURE right src="cimage/imgd.php?src=blad.jpg&w=300&" class="right" caption="blad på en gren"]
+[FIGURE right src="cimage/imgd.php?src=blad.jpg&w=300&" class="center" caption="blad på en gren och class=center"]
 
 
 
@@ -37,7 +35,10 @@ dipped his brush and passed it along the topmost plank;
 repeated the operation; did it again; compared the in-
 significant whitewashed streak with the far-reaching
 continent of unwhitewashed fence, and sat down on a
-tree-box discouraged. Jim came skipping out at the
+tree-box discouraged.
+[FIGURE src="image/blad.jpg&w=150" caption="blad på en gren och class=right" class="right"]
+
+Jim came skipping out at the
 gate with a tin pail, and singing Buffalo Gals. Bringing
 water from the town pump had always been hateful
 work in Tom's eyes, before, but now it did not strike
@@ -65,6 +66,8 @@ to de whitewashin'."
 "Oh, never you mind what she said, Jim. That's
 the way she always talks. Gimme the bucket - I
 won't be gone only a a minute. SHE won't ever know."
+
+[FIGURE src="image/blad.jpg&w=50" caption="blad på en gren och class=left" class="left"]
 
 "Oh, I dasn't, Mars Tom. Ole missis she'd take
 an' tar de head off'n me. 'Deed she would."

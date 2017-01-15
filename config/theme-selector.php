@@ -70,20 +70,20 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "design - movement"       => [
-            "title"      => "a design style with movement",
+        "design-element-1.less"       => [
+            "title"      => "1st design-elementstyle",
             "class"      => "movement",
-            "stylesheets" => ["css/style-design-movement.min.css"]
+            "stylesheets" => ["css/design-element-1.min.css"]
         ],
-        "design - 2nd designstyle"       => [
-            "title"      => "2nd designstyle",
+        "design-element-2.less"       => [
+            "title"      => "2nd design-elementstyle",
             "class"      => "2nd designstyle",
-            "stylesheets" => ["css/2nd-designstyle.min.css"]
+            "stylesheets" => ["css/design-element-2.min.css"]
         ],
-        "design - 3rd designstyle"       => [
-            "title"      => "3rd designstyle",
+        "design-element-3.less"       => [
+            "title"      => "3rd design-elementstyle",
             "class"      => "3rd designstyle",
-            "stylesheets" => ["css/3rd designstyle.min.css"]
+            "stylesheets" => ["css/design-element-3.min.css"]
         ],
     ]
 ];
